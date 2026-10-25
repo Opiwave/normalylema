@@ -1,3 +1,6 @@
-spacy
-nltk
 pandas
+spacy
+gensim
+matplotlib
+scikit-learn
+numpy
