@@ -15,7 +15,7 @@ El notebook desarrolla las siguientes tareas:
 
 ## Archivos del repositorio
 
-- `limpieza_quijote.ipynb`: notebook con el código y los resultados del procesamiento.
+- `Checkpoint3quijote.ipynb`: notebook con el código y los resultados del procesamiento.
 - `Elquijote.txt`: texto utilizado como entrada.
 - `requirements.txt`: dependencias de Python del proyecto.
 
